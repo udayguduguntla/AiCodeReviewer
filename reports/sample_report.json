@@ -1,0 +1,18 @@
+{
+    "analysis": {
+        "flake8_issues": {},
+        "complexity": [],
+        "maintainability": {"maintainability_index": 85.0}
+    },
+    "ai_feedback": {
+        "readability": "Code is clean and easy to read.",
+        "performance": "Efficient for small inputs; recursion could be replaced with iteration for large values.",
+        "security": "No security concerns detected.",
+        "code_quality": "Good",
+        "recommendations": [
+            "Add type hints for parameters and return values.",
+            "Add docstrings explaining the function purpose.",
+            "Handle negative inputs gracefully."
+        ]
+    }
+}

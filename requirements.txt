@@ -1,0 +1,6 @@
+streamlit
+flake8
+radon
+black
+python-dotenv
+groq      # if AI API available
